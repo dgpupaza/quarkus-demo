@@ -24,4 +24,5 @@ public class HelloRestController {
         
         return "Quarkus, hello from " + hostname;
     }
+    
 }
